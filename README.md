@@ -21,4 +21,4 @@ Estou cursando Analise e desenvolvimento de sistemas.
 #### Socials
 
 <p align="left">
-<a href="www.linkedin.com/in/gabriel-rodrigo-4aa73525a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/gabriel-rodrigo-4aa73525a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
