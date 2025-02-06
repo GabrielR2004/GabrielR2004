@@ -2,7 +2,7 @@
 
 #### Desenvolvedor Front-End
 
-Eu tenho 19 anos de idade, sou um desenvolvedor front-end que esta migrando para a linguagem Java e sempre teve interesse na area. Gosto de aprender coisas novas e resolver problemas colocando meus conhecimentos em pratica. No momento meu foco principal é o desenvolvimento front-end, porem estou me especializando na linguagem java.
+Eu tenho 20 anos de idade, sou um desenvolvedor front-end que esta migrando para a linguagem Java e sempre teve interesse na area. Gosto de aprender coisas novas e resolver problemas colocando meus conhecimentos em pratica. No momento meu foco principal é o desenvolvimento front-end, porem estou me especializando na linguagem java.
 
 Estou cursando Analise e desenvolvimento de sistemas.
 
