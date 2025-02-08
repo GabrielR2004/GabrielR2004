@@ -25,6 +25,6 @@ Estou cursando Analise e desenvolvimento de sistemas.
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=GabrielR2004&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/GabrielR2004)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielR2004&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/GabrielR2004)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielR2004&layout=compact&title_color=fff&text_color=f8f8f2&bg_color=171c24)](https://github.com/GabrielR2004)
 
 
